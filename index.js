@@ -6,4 +6,4 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase()
 
 const firstInitial = currentUser.slice(0,1)
 
-const shortGreeting = `Welcome ${
+const shortGreeting = `Welcome ${firstInitial}`
